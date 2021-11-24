@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fextensions","\u002F","\u002Fextensions\u002F[...path]","\u002Flabs\u002F[name]\u002F[date]\u002F[postname]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
